@@ -2,8 +2,8 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "footer": {
-      "type": "footer",
+    "footer-alternate": {
+      "type": "footer-alternate",
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
@@ -21,6 +21,6 @@
     }
   },
   "order": [
-    "footer"
+    "footer-alternate"
   ]
 }
